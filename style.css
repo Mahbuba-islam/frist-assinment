@@ -51,4 +51,38 @@ footer{
     font-size: small;
 }
 
+.Mission-2022{
+    margin: 20px, auto;
+}
+
+
+
+.mission{
+    background: rgba(255, 167, 4, 0.733);
+    height: 220px;
+    width: 250px;
+    padding-top: 10px;
+    margin-left: -20px;
+    text-align: center;
+    margin-left: 40px;
+    border-radius: 7px;
+    display: inline-block;
+    padding: 20px 20px;
+    
+}
+.imge{
+    display: inline-block;
+    
+}
+h1{
+    margin-bottom: 60px;
+    text-align: center;
+}
+.mission-detail{
+    line-height: 1.5;
+    font-size: smaller;
+    margin-top: -40px;
+
+
+    
 
