@@ -18,7 +18,7 @@ body{
     font-weight: bolder;
     padding: 6px;
 }
-.link-button{
+.link-class{
     text-decoration: none;
     background-image: linear-gradient( 109.5deg, rgba(14,179,244,1) 11.2%, rgba(14, 179, 244, 1) 100.6% );
     padding: 10px 15px;
@@ -27,7 +27,7 @@ body{
     font-weight: 700;
     margin-left: -23px;
 }
-.top-banner{
+.top-section{
     display: flex;
     margin: 30px 30px;
     padding: 30px 30px;
@@ -52,7 +52,7 @@ body{
     font-size: medium;
 }
 
-.Mission-2022{
+#Mission-2022{
     margin: 20px, auto;
 }
 
