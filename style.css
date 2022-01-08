@@ -10,14 +10,7 @@ body{
     font-size: x-large;
     font-weight: bolder;
 }
-.orchid-orange{
-    margin-right: 660px;
-    margin-bottom: -25px;
-    color: #FEA47F;
-    font-size: x-large;
-    font-weight: bolder;
-    padding: 6px;
-}
+
 .link-class{
     text-decoration: none;
     background-image: linear-gradient( 109.5deg, rgba(14,179,244,1) 11.2%, rgba(14, 179, 244, 1) 100.6% );
@@ -25,14 +18,14 @@ body{
     border-radius: 5px;
     color: white;
     font-weight: 700;
-    margin-left: 
+     
 }
 .top-section{
     display: flex;
     margin-left: 10%;
     margin-top: 50px;
    }
-   .top{
+   .half-lenth{
     width: 50%;
     line-height: 2.1;
     margin-bottom: 30px;
@@ -45,9 +38,10 @@ h1{
 
 
 
-.top img {
+.half-lenth img {
     width: 50%;
     margin-left: 20%;
+    margin-bottom: 110px ;
     
 }
 .paragraph{
@@ -76,7 +70,7 @@ h1{
 
 
 .mission{
-    background: #f3a683;
+    background: rgba(255, 166, 0, 0.568);
     height: 230px;
     width: 260px;
     padding-top: 10px;
@@ -88,7 +82,20 @@ h1{
     padding: 20px 20px;
     margin-bottom: 40px;
    } 
-   .vission{background:  rgba(255, 166, 0, 0.568);
+   .vission{background:  #f8d17cc4;
+    height: 230px;
+    width: 260px;
+    padding-top: 10px;
+    margin-left: -20px;
+    text-align: center;
+    margin-left: 40px;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 20px 20px;
+    margin-bottom: 40px;
+
+   }
+   .goal{background:  #f8d17c9a;
     height: 230px;
     width: 260px;
     padding-top: 10px;
@@ -121,20 +128,8 @@ h1{
     }
     
     
-    .pic img{
-        width:50%;
-        height:70%;
-        padding: 20px;
-        margin-right: 50px;
-    }
-    {
-       height: 100px;
-       width: 100px;
-        background: rgb(39, 169, 230);
-        color: white;
-
-        
-    }
+    
+   
     footer{
         height: 80px;
         width: 100%;
