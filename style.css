@@ -29,6 +29,13 @@ body{
     width: 50%;
     line-height: 2.1;
     margin-bottom: 30px;
+
+    
+}
+#border-add{
+    border-left: 5px orange solid ;
+    padding-left: 20px;
+    
 }
 h1{
     line-height: 0%;
@@ -43,6 +50,9 @@ h1{
     margin-left: 20%;
     margin-bottom: 110px ;
     
+}
+
+
 }
 
 .last-heading{
